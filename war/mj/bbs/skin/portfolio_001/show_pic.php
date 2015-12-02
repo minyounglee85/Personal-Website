@@ -1,0 +1,1 @@
+<html><head>	<title>View Image :: 클릭하면 창이 사라집니다~!!</title><body topmargin='0'  leftmargin='0' marginwidth='0' marginheight='0'><A href=# onclick=window.close()><img src=../../<?=$file?> border=0></a></body></head></html>

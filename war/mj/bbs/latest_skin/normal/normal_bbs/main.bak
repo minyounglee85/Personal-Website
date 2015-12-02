@@ -1,0 +1,28 @@
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=euc-kr">
+<meta name="generator" content="Namo WebEditor v6.0">
+<style type="text/css"> 
+* {margin:0; padding:0;}
+.info {width:480px; padding:20px; list-style:none;}
+.info li {margin-bottom:5px; padding:0 0 0 10px; background:url([dir]ls_dot.gif) no-repeat 0 5px; font:normal 12px/1.5 돋움, Dotum; vertical-align:top;}
+.info li a {color:#2D2C2D; text-decoration:none;}
+.info li a:hover {text-decoration:underline;}
+.comment {font-size:11px; font-family:돋움, Dotum; color:#FF9900;}
+</style>
+
+</head>
+<body>
+<table cellpadding="0" cellspacing="0" width="100%>
+    <tr>
+        <td width="100%">
+		<ul class="info">
+[loop]
+		<li><font color="#999999">[[name]]</font>  <a href="#">[subject]</a> <span class="comment">[comment]</span></li>
+		[/loop]
+		<ul>
+		</table>
+</body>
+
+</html>

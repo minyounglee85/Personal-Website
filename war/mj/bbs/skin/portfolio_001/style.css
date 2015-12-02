@@ -1,0 +1,35 @@
+body,table,tr,td,select,input,div,form,textarea {font-family:±¼¸²; font-size:9pt; color:#555555; line-height:150%}
+IMG              {border: none;}
+A:link           {color:#555555;text-decoration:none;}
+A:visited        {color:#555555;text-decoration:none;}
+A:active         {color:#555555;text-decoration:none;}
+A:hover          {color:#C00000;text-decoration:underline;}
+
+
+
+.daerew          {font-family:±¼¸²; font-size:9pt; color:#555555; line-height:150%;}
+.daerew_sub      {font-family:±¼¸²; font-size:9pt; color:#4040E0; line-height:150%;}
+.daerew_b        {font-family:±¼¸²; font-size:9pt; color:#555555; line-height:150%;font-weight:bold;}
+.daerew_009900   {font-family:±¼¸²; font-size:9pt; color:#009900; line-height:150%;}
+.daerew_ffffff   {font-family:±¼¸²; font-size:9pt; color:#555555; line-height:150%;}
+.daerew_s        {font-family:±¼¸²; font-size:8pt; color:#777777; line-height:150%;}
+.daerew_verdana  {font-family:verdana; font-size:7pt; color:#777777; line-height:150%;}
+.daerew_input    {font-family:±¼¸²; font-size:9pt; color:#555555; border:solid 1; border-color:#DBDBDB; background-color:#ffffff; height:21px}
+.daerew_submit   {font-family:±¼¸²; font-size:8pt; color:#FFFFFF; border:solid 1; border-color:#555555; background-color:#555555; height:21px; cursor:pointer;}
+.daerew_button   {font-family:±¼¸²; font-size:8pt; color:#FFFFFF; border:solid 1; border-color:#555555; background-color:#555555; height:21px; cursor:pointer;}
+.daerew_button2  {font-family:±¼¸²; font-size:8pt; color:#555555; border:solid 1; border-color:#DBDBDB; background-color:#f7f7f7; height:21px; cursor:pointer;}
+.daerew_textarea {font-family:±¼¸²; font-size:9pt; color:#000000; background-color:white; border:1 solid #E5E5E5; silver; cursor:pointer;}
+.board_top       {font-family:±¼¸²; font-size:9pt; color:#ffffff; text-align:center; background:#000000; height:30; font-weight:bold;}
+.write_bottom    {font-family:±¼¸²; font-size:8pt; color:#ffffff; line-height:120%; background:#000000; height:30;}
+.view-top        {font-family:±¼¸²; font-size:9pt; color:#555555; background:#EEEEEE; text-align:center; width:90; height:25;}
+.background      {background:#F9F9F9}
+.view-bg         {background:#F9F9F9; padding:0 10;}
+.hegiht          {height:28px;}
+.line            {width:100%; height:1px; background-color:#F4F4F4}
+.line_sub        {width:100%; height:4px; background-color:#555555}
+.line_sub1       {width:100%; height:1px; background-color:#555555}
+.bar1            {width:100%; height:1px; background-color:#dddddd}
+.bar2            {background-color:#dddddd}
+
+.t_right {border-top-width:1; border-bottom-width:1; border-right-width:1; border-top-color:#EEEEEE; border-bottom-color:#EEEEEE; border-right-color:#EEEEEE; border-top-style:solid; border-bottom-style:solid; border-right-style:solid;}
+.t_left {border-top-width:1; border-bottom-width:1; border-left-width:1; border-top-color:#EEEEEE; border-bottom-color:#EEEEEE; border-left-color:#EEEEEE; border-top-style:solid; border-bottom-style:solid; border-left-style:solid; padding:0 0 0 10;}
